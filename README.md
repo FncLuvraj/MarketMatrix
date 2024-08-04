@@ -46,7 +46,34 @@ Start exploring the stock market, manage your portfolio, and track your transact
 
 Screenshots
 
-Add screenshots of your application here to give a visual representation.
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/e3ca29fd-dd17-4afd-ae44-cdb304da1a7f" alt="Screenshot 1" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/dd76a7fd-b1bf-427a-8261-2d0be86d2b12" alt="Screenshot 2" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/2be84346-479b-4555-abdd-e39c0fbc6bfd" alt="Screenshot 3" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/59da6b07-927a-4373-aa8c-490b18099746" alt="Screenshot 4" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/35ebc67d-f52e-4d54-b78c-e235498aaf36" alt="Screenshot 5" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/d8473e4f-efa5-4e88-89bd-41b1a4a13f87" alt="Screenshot 6" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/4b1dca14-0546-49ad-94d8-5b997cd2f6b8" alt="Screenshot 7" width="100%">
+  </div>
+  <div style="flex: 50%; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/1d8dcead-9a24-4b43-bdcf-85165f32ed7e" alt="Screenshot 8" width="100%">
+  </div>
+</div>
+
+
 
 Contributing
 
@@ -57,10 +84,6 @@ Contributions are welcome! Please follow these steps to contribute:
 	3.	Make your changes and commit them: git commit -m 'Add new feature'
 	4.	Push to the branch: git push origin my-feature-branch
 	5.	Create a pull request
-
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
