@@ -33,7 +33,6 @@ Technologies Used
 	•	Other Tools:
 	•	Axios for API requests
 	•	JWT for authentication
-	•	Socket.io for real-time updates
 	•	Chart.js for interactive bar charts
 Usage
 
