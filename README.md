@@ -34,14 +34,6 @@ Technologies Used
 	•	Axios for API requests
 	•	JWT for authentication
 	•	Chart.js for interactive bar charts
-Usage
-
-	1.	Navigate to the frontend:
-Open your browser and go to http://localhost:3000.
-	2.	Create an account or log in:
-Register a new account or log in with your existing credentials.
-	3.	Explore the application:
-Start exploring the stock market, manage your portfolio, and track your transactions.
 
 Screenshots
 
@@ -83,11 +75,3 @@ Contributions are welcome! Please follow these steps to contribute:
 	3.	Make your changes and commit them: git commit -m 'Add new feature'
 	4.	Push to the branch: git push origin my-feature-branch
 	5.	Create a pull request
-
-Contact
-
-For any inquiries, please contact me at:
-
-	•	Email: your-email@example.com
-	•	LinkedIn: your-linkedin-profile
-	•	GitHub: your-github-profile
